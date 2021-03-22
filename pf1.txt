@@ -1,2 +1,6 @@
-ytrttrrtradd
+<<<<<<< HEAD
+ytrttrrtr changing again nit  add
 this is me doing the edits, dont you dare touch it kundanmuchi kothi
+=======
+ytrttrrtr changing again nit
+>>>>>>> a28a1dc25bb2654543766e5f5171c9304dc7db11
